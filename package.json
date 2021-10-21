@@ -24,7 +24,11 @@
     "web3modal": "^1.9.4"
   },
   "devDependencies": {
+    "add": "^2.0.6",
+    "autoprefixer": "^10.3.7",
     "eslint": "7.32.0",
-    "eslint-config-next": "11.1.2"
+    "eslint-config-next": "11.1.2",
+    "postcss": "^8.3.11",
+    "tailwindcss": "^2.2.17"
   }
 }
