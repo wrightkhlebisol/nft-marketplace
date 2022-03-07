@@ -18,7 +18,7 @@
     "ethers": "^5.5.1",
     "hardhat": "^2.6.6",
     "ipfs-http-client": "^53.0.1",
-    "next": "11.1.2",
+    "next": "11.1.4",
     "react": "17.0.2",
     "react-dom": "17.0.2",
     "web3modal": "^1.9.4"
@@ -27,7 +27,7 @@
     "add": "^2.0.6",
     "autoprefixer": "^10.3.7",
     "eslint": "7.32.0",
-    "eslint-config-next": "11.1.2",
+    "eslint-config-next": "11.1.4",
     "postcss": "^8.3.11",
     "tailwindcss": "^2.2.17"
   }
